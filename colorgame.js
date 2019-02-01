@@ -41,7 +41,7 @@ for (var i = 0; i < mode.length; i++) {
 	mode[i].addEventListener("click",function(){
 		mode[0].classList.remove("selected");
 		mode[1].classList.remove("selected");
-		this.classList.add("selcted");
+		this.classList.add("selected");
 		this.textContent == "EASY" ? numsquare = 3 : numsquare = 6;
 		reset();	
 	})	

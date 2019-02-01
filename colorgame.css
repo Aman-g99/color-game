@@ -15,10 +15,30 @@ h1 {
 	padding-top: 10px;
 	padding-bottom: 10px; 
 }
-
-.mode{
-	
+/*
+#intro{
+	color: white;
+	position: absolute;
+	bottom: 50px;
+	right: 100px;
 }
+*/
+#name{
+	color: white;
+	position: absolute;
+	bottom: 8px;
+	right: 50px;
+	font-family: 'Niconne', cursive;
+	font-weight: 600;
+	font-size: 43px;
+}
+
+/*
+#pp{
+	float: right;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}*/
 
 .square {
 	width: 30%;
